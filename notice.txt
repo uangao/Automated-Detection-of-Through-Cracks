@@ -1,0 +1,2 @@
+Toolbox: MMDetection3
+model: detection-through-crack/configs/swin/faster-rcnn_swin-t-p4-w7_fpn_1x_coco.py
